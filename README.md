@@ -1,3 +1,5 @@
+This has now been archived
+
 # Introduction to JavaScript
 
 In this repository you will find the starter files for all the Software Engineering: Intro to JavaScript sessions
